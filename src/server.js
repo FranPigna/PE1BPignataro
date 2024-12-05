@@ -14,7 +14,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 const app = express();
-const productsFilePath = path.join(process.cwd(), "src/public", "products.json");
+const productsFilePath = path.join(process.cwd(), "src/public" , "products.json");
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));

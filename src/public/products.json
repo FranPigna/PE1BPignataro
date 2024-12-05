@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1732131626936,
+    "name": "Manzana",
+    "description": "Manzana roja dulce",
+    "stock": 20,
+    "price": 2500
+  },
+  {
+    "id": 1732131656733,
+    "name": "Pera",
+    "description": "Fruta de color amarillo, dulce",
+    "stock": 20,
+    "price": 3500
+  },
+  {
+    "id": 1732131700247,
+    "name": "Fideos",
+    "description": "Fideos hechos a base de harina",
+    "stock": 20,
+    "price": 5000
+  },
+  {
+    "id": 1733082457899,
+    "name": "Azucar",
+    "description": "Consumible para endulzar alimentos o/y bebidas",
+    "stock": 20,
+    "price": 2000
+  },
+  {
+    "id": 1733082562436,
+    "name": "Sal",
+    "description": "Consumible para dar sabor a tus comidas",
+    "stock": 20,
+    "price": 4200
+  },
+  {
+    "id": 1733084944372,
+    "name": "Tomate",
+    "description": "Fruta para hacer ensalada o tuco",
+    "stock": 20,
+    "price": 3000
+  },
+  {
+    "id": 1733373225742,
+    "name": "manzana",
+    "description": "manzaza roja dulce",
+    "stock": 2,
+    "price": 2
+  },
+  {
+    "id": 1733374073323,
+    "name": "manzana",
+    "description": "manzana roja dulce",
+    "stock": 20,
+    "price": 2500
+  }
+]
