@@ -1,58 +1,73 @@
 [
   {
-    "id": 1732131626936,
-    "name": "Manzana",
-    "description": "Manzana roja dulce",
-    "stock": 20,
-    "price": 2500
+      "id": 1,
+      "name": "Fija",
+      "description":"Suspensiones a medida a gusto del cliente",
+      "price": 1050,
+      "stock": 20 
   },
+  
   {
-    "id": 1732131656733,
-    "name": "Pera",
-    "description": "Fruta de color amarillo, dulce",
-    "stock": 20,
-    "price": 3500
+      "id": 2,
+      "name": "Regulable",
+      "description": "Suspensiones con la capacidad de regulacion de 10cm",
+      "price": 1299,
+      "stock": 10
   },
+
   {
-    "id": 1732131700247,
-    "name": "Fideos",
-    "description": "Fideos hechos a base de harina",
-    "stock": 20,
-    "price": 5000
+      "id": 3,
+      "name": "AirRide Black 8mm",
+      "description": "La mejor suspension del mercado, con posibilidad de regular la altura instantaneamente",
+      "price": 4049,
+      "stock":18
   },
+
   {
-    "id": 1733082457899,
-    "name": "Azucar",
-    "description": "Consumible para endulzar alimentos o/y bebidas",
-    "stock": 20,
-    "price": 2000
+      "id": 4,
+      "name": "AirRide Black 10mm",
+      "description":"La mejor suspension del mercado, con posibilidad de regular la altura instantaneamente",
+      "price": 4799,
+      "stock": 16 
   },
+
   {
-    "id": 1733082562436,
-    "name": "Sal",
-    "description": "Consumible para dar sabor a tus comidas",
-    "stock": 20,
-    "price": 4200
+      "id": 5,
+      "name": "AirRide Super Black 12mm",
+      "description":"La mejor suspension del mercado, con posibilidad de regular la altura instantaneamente",
+      "price": 8230,
+      "stock": 12
   },
+
   {
-    "id": 1733084944372,
-    "name": "Tomate",
-    "description": "Fruta para hacer ensalada o tuco",
-    "stock": 20,
-    "price": 3000
+     "id": 6,
+      "name": "Compresor 160psi",
+      "description":"Compresor de Suspension Neumatica de 160psi",
+      "price": 799,
+      "stock": 20 
   },
+
   {
-    "id": 1733373225742,
-    "name": "manzana",
-    "description": "manzaza roja dulce",
-    "stock": 2,
-    "price": 2
+      "id": 7,
+      "name": "Tanque de aluminio 11L",
+      "description":"Tanque de aluminio para tu Suspension Neumatica con capacidad de 11L",
+      "price": 960,
+      "stock": 50 
   },
+
   {
-    "id": 1733374073323,
-    "name": "manzana",
-    "description": "manzana roja dulce",
-    "stock": 20,
-    "price": 2500
+      "id": 8,
+      "name": "Bolsa de aire 6.0",
+      "description":"Bolsa de aire para Suspension Neumatica, de la mejor calidad",
+      "price": 310,
+      "stock": 50
+  },
+
+  {
+      "id": 9,
+      "name": "Control Castor AirRide",
+      "description":"Control para Suspension Neumatica, compatible con todos los modulos",
+      "price": 195,
+      "stock": 100
   }
 ]
