@@ -1,73 +1,65 @@
 [
   {
-      "id": 1,
-      "name": "Fija",
-      "description":"Suspensiones a medida a gusto del cliente",
-      "price": 1050,
-      "stock": 20 
+    "id": "6757ade3b883ba40731c2bc4",
+    "name": "Fija",
+    "description": "Suspensiones a medida a gusto del cliente",
+    "price": 1050,
+    "stock": 20
   },
-  
   {
-      "id": 2,
-      "name": "Regulable",
-      "description": "Suspensiones con la capacidad de regulacion de 10cm",
-      "price": 1299,
-      "stock": 10
+    "id": "6757ade3b883ba40731c2bc5",
+    "name": "Regulable",
+    "description": "Suspensiones con la capacidad de regulacion de 10cm",
+    "price": 1299,
+    "stock": 10
   },
-
   {
-      "id": 3,
-      "name": "AirRide Black 8mm",
-      "description": "La mejor suspension del mercado, con posibilidad de regular la altura instantaneamente",
-      "price": 4049,
-      "stock":18
+    "id": "6757ade3b883ba40731c2bc6",
+    "name": "AirRide Black 8mm",
+    "description": "La mejor suspension del mercado, con posibilidad de regular la altura instantaneamente",
+    "price": 4049,
+    "stock": 18
   },
-
   {
-      "id": 4,
-      "name": "AirRide Black 10mm",
-      "description":"La mejor suspension del mercado, con posibilidad de regular la altura instantaneamente",
-      "price": 4799,
-      "stock": 16 
+    "id": "6757ade3b883ba40731c2bc7",
+    "name": "AirRide Black 10mm",
+    "description": "La mejor suspension del mercado, con posibilidad de regular la altura instantaneamente",
+    "price": 4799,
+    "stock": 16
   },
-
   {
-      "id": 5,
-      "name": "AirRide Super Black 12mm",
-      "description":"La mejor suspension del mercado, con posibilidad de regular la altura instantaneamente",
-      "price": 8230,
-      "stock": 12
+    "id": "6757ade3b883ba40731c2bc8",
+    "name": "AirRide Super Black 12mm",
+    "description": "La mejor suspension del mercado, con posibilidad de regular la altura instantaneamente",
+    "price": 8230,
+    "stock": 12
   },
-
   {
-     "id": 6,
-      "name": "Compresor 160psi",
-      "description":"Compresor de Suspension Neumatica de 160psi",
-      "price": 799,
-      "stock": 20 
+    "id": "6757ade3b883ba40731c2bc9",
+    "name": "Compresor 160psi",
+    "description": "Compresor de Suspension Neumatica de 160psi",
+    "price": 799,
+    "stock": 20
   },
-
   {
-      "id": 7,
-      "name": "Tanque de aluminio 11L",
-      "description":"Tanque de aluminio para tu Suspension Neumatica con capacidad de 11L",
-      "price": 960,
-      "stock": 50 
+    "id": "6757ade3b883ba40731c2bca",
+    "name": "Tanque de aluminio 11L",
+    "description": "Tanque de aluminio para tu Suspension Neumatica con capacidad de 11L",
+    "price": 960,
+    "stock": 50
   },
-
   {
-      "id": 8,
-      "name": "Bolsa de aire 6.0",
-      "description":"Bolsa de aire para Suspension Neumatica, de la mejor calidad",
-      "price": 310,
-      "stock": 50
+    "id": "6757ade3b883ba40731c2bcb",
+    "name": "Bolsa de aire 6.0",
+    "description": "Bolsa de aire para Suspension Neumatica, de la mejor calidad",
+    "price": 310,
+    "stock": 50
   },
-
   {
-      "id": 9,
-      "name": "Control Castor AirRide",
-      "description":"Control para Suspension Neumatica, compatible con todos los modulos",
-      "price": 195,
-      "stock": 100
+    "id": "6757ade3b883ba40731c2bcc",
+    "name": "Control Castor AirRide",
+    "description": "Control para Suspension Neumatica, compatible con todos los modulos",
+    "price": 195,
+    "stock": 100
   }
 ]
